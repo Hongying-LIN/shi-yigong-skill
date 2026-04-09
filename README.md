@@ -109,7 +109,7 @@
 
 ```bash
 cd ~/.claude/skills
-git clone https://github.com/YOUR_USERNAME/shi-yigong-skill.git shi-yigong-perspective
+git clone https://github.com/Hongying-LIN/shi-yigong-skill.git shi-yigong-perspective
 ```
 
 然后在 Claude Code 里触发：
